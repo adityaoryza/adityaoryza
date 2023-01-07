@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm adityaoryza</h1>
+Illustration by <a href="https://icons8.com/illustrations/author/7WmtYU90j36d">Fruzka</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
 <h3 align="center">Informatics Engineering Student</h3>
 
 - 👨‍💻 All of my projects are available at [https://adityaoryza.github.io/Portfolio/](https://adityaoryza.github.io/Portfolio/)
