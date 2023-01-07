@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm adityaoryza</h1>
 <h3 align="center">Informatics Engineering Student</h3>
 
+- 👨‍💻 All of my projects are available at [https://adityaoryza.github.io/Portfolio/](https://adityaoryza.github.io/Portfolio/)
+
+- 📫 How to reach me **oryza429@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
