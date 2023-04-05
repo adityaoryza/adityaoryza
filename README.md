@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **oryza429@gmail.com**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/adityaorz/</h3>
+<h3 align="left">Connect with me:</h3>
+- Linkedin :  https://www.linkedin.com/in/adityaorz/
 <p align="left">
 </p>
 
