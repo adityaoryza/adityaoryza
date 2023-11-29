@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm adityaoryza</h1>
-<h3 align="center">Informatics Engineering Student</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [Aditya's Website](https://adityaoryza.my.id/)
 
