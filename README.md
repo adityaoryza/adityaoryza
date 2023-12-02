@@ -18,4 +18,5 @@
 <p> </p>
 <p> </p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaoryza&show_icons=true&locale=en" alt="adityaoryza" /></p> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=adityaoryza&theme=dracula)](https://git.io/streak-stats)
 
