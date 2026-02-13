@@ -26,8 +26,8 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Activity:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaoryza&show_icons=true&theme=tokyonight" alt="adityaoryza's stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaoryza&layout=compact&theme=tokyonight" alt="top langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaoryza&show_icons=true&theme=transparent" alt="adityaoryza's stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaoryza&theme=transparent" alt="GitHub Streak" height="150" />
 </p>
