@@ -28,7 +28,7 @@
 
 ### 📊 GitHub Activity & Contribution:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaoryza&show_icons=true&theme=transparent&hide_border=true" alt="adityaoryza's stats" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityaoryza&show_icons=true&theme=transparent&hide_border=true" alt="adityaoryza's stats" height="170" />
   
   <img src="https://streak-stats.demolab.com?user=adityaoryza&theme=transparent&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
