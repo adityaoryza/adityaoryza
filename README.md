@@ -26,8 +26,13 @@
 
 ---
 
-### 📊 GitHub Activity:
+### 📊 GitHub Activity & Contribution:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaoryza&show_icons=true&theme=transparent" alt="adityaoryza's stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaoryza&theme=transparent" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaoryza&show_icons=true&theme=transparent&hide_border=true" alt="adityaoryza's stats" height="170" />
+  
+  <img src="https://streak-stats.demolab.com?user=adityaoryza&theme=transparent&hide_border=true" alt="GitHub Streak" height="170" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaoryza&theme=react-dark&hide_border=true&area=true" width="100%" alt="adityaoryza's activity graph" />
 </p>
