@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=480&lines=Hey+%F0%9F%91%8B+I'm+Aditya+Oryza;Odoo+Developer;Backend+Specialist;ERP+%7C+Python+%7C+Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=480&lines=Hey+%F0%9F%91%8B+I'm+Aditya+Oryza;Odoo+Developer;Backend+Specialist;Python+%7C+Odoo+%7C+Node.js" alt="Typing SVG" />
 
 <br/>
 
@@ -29,9 +29,8 @@ class AO:
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,docker,gcp,git,redis,linux&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,docker,gcp,git,redis,linux&theme=dark" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" />
   <img src="https://img.shields.io/badge/XML--RPC-a78bfa?style=flat-square&logoColor=white" />
@@ -44,8 +43,8 @@ class AO:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaoryza&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=adityaoryza&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6C37&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaoryza&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=adityaoryza&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6C37&currStreakLabel=58A6FF" height="165"/>
 </p>
 
 <p align="center">
@@ -54,10 +53,4 @@ class AO:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaoryza&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=6" height="140"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=0&pause=0&color=8B949E&center=true&vCenter=true&repeat=false&width=400&lines=Thanks+for+visiting+%7C+adityaoryza+%40+github" />
 </p>
