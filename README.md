@@ -1,55 +1,73 @@
-<!-- HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:2d1b69&height=200&section=header&text=Aditya%20Oryza&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Odoo%20Engineer%20%E2%80%83%C2%B7%E2%80%83%20Backend%20Developer&descAlignY=56&descAlign=50&descColor=d4d4f7" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Aditya+Oryza;Odoo+Developer;Backend+Specialist" alt="Typing SVG" />
+
+  <p align="center">
+    <em>Building seamless ERP systems and scalable backend architectures.</em><br>
+    <em>Passionate about <b>Odoo</b>, <b>Python</b>, and crafting robust APIs with <b>Node.js</b>.</em>
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/adityaoryza/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:oryza429@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
+  ---
+
 </div>
 
+### 🛠️ Tech Stack & Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/Odoo/odoo/16.0/setup/odoo/static/src/img/odoo_logo.png" width="48" height="48" alt="Odoo" />
+      <br>Odoo
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" />
+      <br>GCP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/adityaoryza/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:oryza429@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=adityaoryza&style=flat-square&color=667eea&label=Profile+Views" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityaoryza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="adityaoryza's stats" height="170" />
+  <img src="https://streak-stats.demolab.com?user=adityaoryza&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="170" />
 </div>
 
 <br>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaoryza&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="adityaoryza's activity graph" />
+</div>
 
-### What I do
+<br>
 
-> **Backend developer specialising in Odoo ERP** — building custom modules, complex integrations, and automations that replace manual work with reliable systems.
+<div align="center">
 
-- Architect and ship **Odoo 16/17 modules** — from business logic in Python to OWL frontend components
-- Design **API bridges** between Odoo and external platforms (REST, XML-RPC, webhooks, async queues)
-- Deploy and maintain production ERP infrastructure on **GCP + Docker + PostgreSQL**
-
----
-
-### Tech Stack
-
-**Core**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### Currently
-
-```text
-🟢  Building   — PM automation tooling for Odoo project workflows
-🔵  Exploring  — LLM integrations for ERP data extraction & classification
-🟡  Open to    — Odoo customisation projects & backend API collaborations
+</div>
