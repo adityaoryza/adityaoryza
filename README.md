@@ -1,65 +1,72 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:3b82f6&height=220&section=header&text=Aditya%20Oryza&fontSize=52&fontColor=f0f6fc&fontAlignY=40&desc=Odoo%20Developer%20%E2%80%A2%20Backend%20Specialist&descAlignY=62&descColor=93c5fd&fontAlign=50)
-
 <div align="center">
 
-```json
-{
-  "role"   : "Odoo Developer · Backend Specialist",
-  "builds" : "ERP systems · scalable APIs · clean backends",
-  "loves"  : ["Odoo", "Python", "Node.js", "PostgreSQL"],
-  "loc"    : "Yogyakarta, Indonesia 🌴",
-  "status" : "open_to_work 🟢"
-}
-```
+![header](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=0&pause=0&color=F0F6FC&center=true&vCenter=true&repeat=false&width=500&height=80&lines=Aditya+Oryza)
+
+![role](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Odoo+Developer+%C2%B7+Backend+Specialist;Building+ERP+systems+%26+scalable+APIs;Yogyakarta%2C+Indonesia+%F0%9F%8C%B4)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3b82f6)](https://linkedin.com/in/adityaoryza)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f87171)](mailto:oryza429@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=adityaoryza&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/adityaoryza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e17?style=flat-square&logo=linkedin&logoColor=60A5FA&labelColor=0a0e17)](https://linkedin.com/in/adityaoryza)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0a0e17?style=flat-square&logo=gmail&logoColor=F87171&labelColor=0a0e17)](mailto:oryza429@gmail.com)&nbsp;
+[![Open to work](https://img.shields.io/badge/●_Open_to_work-0d1f18?style=flat-square&color=0d1f18&labelColor=0d1f18&logoColor=4ADE80)](https://linkedin.com/in/adityaoryza)&nbsp;
+[![Views](https://komarev.com/ghpvc/?username=adityaoryza&color=3b82f6&style=flat-square&label=profile+views)](https://github.com/adityaoryza)
 
 </div>
 
 ---
 
+## `01` · About
+
+```json
+{
+  "name"     : "Aditya Oryza",
+  "role"     : "Odoo Dev · Backend Specialist",
+  "stack"    : ["Python", "Odoo", "Node.js", "PostgreSQL"],
+  "location" : "Yogyakarta, Indonesia",
+  "status"   : "open_to_work █"
+}
+```
+
+---
+
 ## `02` · Tech Stack
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1117)
-![Odoo](https://img.shields.io/badge/Odoo-0d1117?style=flat-square&logo=odoo&logoColor=714B67&labelColor=0d1117)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933&labelColor=0d1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED&labelColor=0d1117)
-![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=google-cloud&logoColor=4285F4&labelColor=0d1117)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032&labelColor=0d1117)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D&labelColor=0d1117)
-![REST API](https://img.shields.io/badge/REST_API-0d1117?style=flat-square&logo=fastapi&logoColor=FF6C37&labelColor=0d1117)
-![XML--RPC](https://img.shields.io/badge/XML--RPC-0d1117?style=flat-square&logo=xml&logoColor=a78bfa&labelColor=0d1117)
-
-</div>
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/█_Python-0a0e17?style=flat-square&color=0a0e17&logoColor=3776AB" />&nbsp;<b>Python</b><br/><sub>core lang</sub></td>
+<td><img src="https://img.shields.io/badge/█_Odoo-0a0e17?style=flat-square&color=0a0e17" />&nbsp;<b>Odoo</b><br/><sub>erp platform</sub></td>
+<td><img src="https://img.shields.io/badge/█_Node.js-0a0e17?style=flat-square&color=0a0e17" />&nbsp;<b>Node.js</b><br/><sub>api backend</sub></td>
+<td><img src="https://img.shields.io/badge/█_PostgreSQL-0a0e17?style=flat-square&color=0a0e17" />&nbsp;<b>PostgreSQL</b><br/><sub>database</sub></td>
+</tr>
+<tr>
+<td><b>REST API</b><br/><sub>integration</sub></td>
+<td><b>XML-RPC</b><br/><sub>odoo protocol</sub></td>
+<td><b>Docker</b><br/><sub>containers</sub></td>
+<td><b>GCP</b><br/><sub>cloud infra</sub></td>
+</tr>
+</table>
 
 ---
 
 ## `03` · GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityaoryza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&icon_color=3b82f6&title_color=3b82f6&text_color=8b949e" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=adityaoryza&theme=tokyonight&hide_border=true&background=0D1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=8b949e&dates=8b949e" height="165"/>
-</div>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityaoryza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e17&icon_color=3b82f6&title_color=3b82f6&text_color=8b949e&include_all_commits=true&count_private=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=adityaoryza&theme=tokyonight&hide_border=true&background=0a0e17&ring=3b82f6&fire=fbbf24&currStreakLabel=3b82f6&sideLabels=8b949e&dates=8b949e&currStreakNum=f0f6fc" height="160"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaoryza&theme=react-dark&hide_border=true&area=true&bg_color=0a0e17&color=3b82f6&line=3b82f6&point=f0f6fc&area_color=1e3a5f" width="100%"/>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaoryza&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=3b82f6&line=3b82f6&point=f0f6fc&area_color=3b82f620" width="100%"/>
-</div>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityaoryza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=3b82f6&text_color=8b949e&langs_count=6" height="130"/>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityaoryza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=8b949e&langs_count=6" height="140"/>
 </div>
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0d1117&height=120&section=footer)
+<div align="center">
+<sub>// thanks for visiting · adityaoryza · github.com</sub>
+</div>
