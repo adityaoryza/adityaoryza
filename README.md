@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaoryza)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oryza429@gmail.com)
+[![Website](https://img.shields.io/badge/Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adityaoryza.my.id/)
 [![Profile Views](https://komarev.com/ghpvc/?username=adityaoryza&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/adityaoryza)
 
 </div>
