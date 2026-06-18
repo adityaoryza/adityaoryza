@@ -21,6 +21,7 @@ class AO:
     location  = "Yogyakarta, Indonesia 🌴"
     building  = ["ERP systems", "scalable APIs", "clean backends"]
     stack     = ["Python", "Odoo", "Node.js", "PostgreSQL"]
+    website   = ["adityaoryza.my.id"]
     status    = "open_to_work 🟢"
 ```
 
